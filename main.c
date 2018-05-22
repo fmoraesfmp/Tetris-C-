@@ -20,7 +20,7 @@ void troca_title()
 ///PROGRAMA
 int main()
 {
-    ///VARIAVEIS
+    ///VARIAVEIS maneiras
     volatile int exit_program = FALSE;
     int screen_state;
     int pont=0;
